@@ -149,9 +149,33 @@ I’m currently focusing on learning Windows driver exploitation and related low
       <br>Git
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/cobalt_strike.png" width="48" height="48" alt="Cobalt Strike" />
+      <br>Cobalt Strike
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/Metasploit.png" width="48" height="48" alt="Metasploit" />
+      <br>Metasploit
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/burp.png" width="48" height="48" alt="Burp Suite" />
+      <br>Burp Suite
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/bloodhound.png" width="48" height="48" alt="BloodHound" />
+      <br>BloodHound
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/binja.png" width="48" height="48" alt="Binary Ninja" />
+      <br>Binary Ninja
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/x64dbg.png" width="48" height="48" alt="x64dbg" />
+      <br>x64dbg
+    </td>
+  </tr>
 </table>
-
-**Security Tooling:** Cobalt Strike, Sliver, Metasploit, Burp Suite, BloodHound, Mimikatz, Impacket, Ghidra, IDA Pro
 
 <img src="./assets/rainbow_line.gif" width="100%">
 
